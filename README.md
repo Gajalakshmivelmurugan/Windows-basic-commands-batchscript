@@ -40,7 +40,9 @@ Change to the "MyLab" directory and create an empty text file named "MyFile.txt"
 ## COMMAND AND OUTPUT
 
 cd %userprofile%\Desktop\MyLab
+
 ![371380873-98ba2b43-f1a8-45d7-9049-1493cbd5e86b](https://github.com/user-attachments/assets/c7b73beb-0905-4390-828c-2bc73afdae0d)
+
 ![371380937-f7611b2b-5d55-405a-8c41-8886d57c866d](https://github.com/user-attachments/assets/760b452c-3ee8-449f-a9a0-7d8020c5c8c0)
 
 List the contents of the "MyLab" directory.
